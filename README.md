@@ -8,4 +8,4 @@ A collection of notes, checklists, and runbooks fragments built to help you thin
 
 ### Terraform
 
-- [Upgrade Plan for Large Codebases](terraform/upgrade-plan.md)
+- [Upgrade Plan for Large Codebases](terraform/terraform_upgrade_plan.md)
